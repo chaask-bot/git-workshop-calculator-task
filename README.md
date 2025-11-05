@@ -54,6 +54,6 @@ By completing this task, you will learn to:
 
 ---
 
-<div align="center">✨ <b>Learn. Commit. Collaborate.</b> ✨
-  </div>
+<h2 align="center">✨ <b>Learn. Commit. Collaborate.</b> ✨
+  </h2>
 
