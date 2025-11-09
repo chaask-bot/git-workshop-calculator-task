@@ -14,15 +14,18 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    return a * b
+    return a*b
 
 # TODO: Implement this function
 def divide(a, b):
-    pass
+    if b== 0:
+        return 'error'
+    else:
+        return a/b
 
 # TODO: Implement this function
 def power(a, b):
-    pass
+     return a**b
 
 while True:
     print("\n---- CALCULATOR MENU ----")
